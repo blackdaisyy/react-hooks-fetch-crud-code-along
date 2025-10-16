@@ -1,22 +1,10 @@
 {
-  "items": [
+  "questions": [
     {
       "id": 1,
-      "name": "Milk",
-      "category": "Dairy",
-      "isInCart": false
-    },
-    {
-      "id": 2,
-      "name": "Bread",
-      "category": "Produce",
-      "isInCart": false
-    },
-    {
-      "id": 3,
-      "name": "Ice Cream",
-      "category": "Dessert",
-      "isInCart": false
+      "prompt": "What is 2+2?",
+      "answers": ["3", "4", "5", "22"],
+      "correctIndex": 1
     }
   ]
 }
